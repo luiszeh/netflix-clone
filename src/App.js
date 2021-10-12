@@ -63,6 +63,7 @@ export default () => {
         Página feita por Luis Fernando Fonseca, desenvolvida em React, utilizando CSS puro para efeitos e estilização e hooks para gerenciamento de estado.<br/>
         Direitos de imagem para Netflix.<br/>
         Dados da API pegos do site themoviedb.org.
+        Referência: Bonieky Lacerda.
       </footer>
     </div>
   );
