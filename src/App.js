@@ -60,7 +60,8 @@ export default () => {
       </section>
 
       <footer>
-        Página feita por Luis Fernando Fonseca, desenvolvida em React, utilizando CSS puro para efeitos e estilização e hooks para gerenciamento de estado.<br/>
+        Página feita por Luis Fernando Fonseca, desenvolvida em React, utilizando CSS puro para efeitos e estilização, Material UI para ícones e hooks para gerenciamento de estado.<br/>
+        Próxima Feature: tela login.<br/>
         Direitos de imagem para Netflix.<br/>
         Dados da API pegos do site themoviedb.org.
         Referência: Bonieky Lacerda.
