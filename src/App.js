@@ -64,6 +64,7 @@ export default () => {
         Próxima Feature: tela login.<br/>
         Direitos de imagem para Netflix.<br/>
         Dados da API pegos do site themoviedb.org.<br/>
+        Página sem fins lucrativos. Feita por razões acadêmicas.<br/>
         Referência: Bonieky Lacerda.
       </footer>
       {movieList.length <= 0 &&
