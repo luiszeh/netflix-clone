@@ -9,6 +9,6 @@
 
 ## Para rodar o projeto:
 
-1- `Clone o projeto: git clone git@github.com:luiszeh/netflix-clone.git`
-2- `Instale as dependências: npm install`
-3- `Rode o projeto: npm start`
+- `Clone o projeto: git clone git@github.com:luiszeh/netflix-clone.git`
+- `Instale as dependências: npm install`
+- `Rode o projeto: npm start`
